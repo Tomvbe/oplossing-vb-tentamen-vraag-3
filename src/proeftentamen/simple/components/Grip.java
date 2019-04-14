@@ -1,6 +1,6 @@
-package proeftentamen.simple.weapon.components;
+package proeftentamen.simple.components;
 
-import proeftentamen.simple.weapon.WeaponComponent;
+import proeftentamen.simple.WeaponComponent;
 
 // WeaponComponentDecorator
 public class Grip extends WeaponComponentDecorator {

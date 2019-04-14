@@ -1,7 +1,7 @@
-package proeftentamen.simple.weapon;
+package proeftentamen.simple;
 
-import proeftentamen.simple.weapon.components.Grip;
-import proeftentamen.simple.weapon.components.Scope;
+import proeftentamen.simple.components.Grip;
+import proeftentamen.simple.components.Scope;
 
 public class Application {
     public static void main(String[] args) {

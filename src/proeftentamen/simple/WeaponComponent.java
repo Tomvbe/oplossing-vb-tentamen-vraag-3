@@ -1,4 +1,4 @@
-package proeftentamen.simple.weapon;
+package proeftentamen.simple;
 
 public interface WeaponComponent {
     abstract void shoot();

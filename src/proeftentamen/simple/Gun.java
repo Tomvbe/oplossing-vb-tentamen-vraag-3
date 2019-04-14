@@ -1,4 +1,4 @@
-package proeftentamen.simple.weapon;
+package proeftentamen.simple;
 
 public class Gun implements WeaponComponent {
     private Double accuracy;
